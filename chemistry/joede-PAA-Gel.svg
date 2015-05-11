@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="668.47412"
+   height="426.24985"
+   id="svg6063"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="joede-PAA-Gel.svg">
+  <title
+     id="title2996">PAA gel plate</title>
+  <defs
+     id="defs6065">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4857"
+       id="linearGradient5972"
+       x1="1260"
+       y1="642.36218"
+       x2="1310"
+       y2="982.36218"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="183"
+       y1="8179"
+       x2="1050"
+       gradientUnits="userSpaceOnUse"
+       y2="8179"
+       id="linearGradient4857">
+      <stop
+         offset="0"
+         style="stop-color:#BED3DE"
+         id="stop4859" />
+      <stop
+         offset=".65882"
+         style="stop-color:#FFFFFF"
+         id="stop4861" />
+      <stop
+         offset="1"
+         style="stop-color:#CFDFE9"
+         id="stop4863" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-562.90989"
+     inkscape:cy="70.25384"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1030"
+     inkscape:window-height="586"
+     inkscape:window-x="227"
+     inkscape:window-y="318"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata6068">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>PAA gel plate</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>chemistry</rdf:li>
+            <rdf:li>science</rdf:li>
+            <rdf:li>laboratory</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>empty PAA gel plate</dc:description>
+        <dc:source>https://openclipart.org/user-detail/joede</dc:source>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.195605,-176.36618)">
+    <g
+       transform="translate(-858.57143,-383.96825)"
+       id="g6029">
+      <rect
+         y="612.36218"
+         x="910"
+         height="370"
+         width="660"
+         id="rect5964"
+         style="fill:url(#linearGradient5972);fill-opacity:1;stroke:none" />
+      <rect
+         y="562.36218"
+         x="910"
+         height="50"
+         width="60"
+         id="rect5974-9"
+         style="fill:#bed3de;fill-opacity:1;stroke:none" />
+      <rect
+         y="562.36218"
+         x="1030"
+         height="50"
+         width="60"
+         id="rect5974-1"
+         style="fill:#bed3de;fill-opacity:1;stroke:none" />
+      <rect
+         y="562.36218"
+         x="1150"
+         height="50"
+         width="60"
+         id="rect5974-7"
+         style="fill:#bed3de;fill-opacity:1;stroke:none" />
+      <rect
+         y="562.36218"
+         x="1270"
+         height="50"
+         width="60"
+         id="rect5974-78"
+         style="fill:#bed3de;fill-opacity:1;stroke:none" />
+      <rect
+         y="562.36218"
+         x="1390"
+         height="50"
+         width="60"
+         id="rect5974-0"
+         style="fill:#bed3de;fill-opacity:1;stroke:none" />
+      <rect
+         y="562.36218"
+         x="1510"
+         height="50"
+         width="60"
+         id="rect5974-8"
+         style="fill:#bed3de;fill-opacity:1;stroke:none" />
+      <path
+         d="m 1570,982.36218 c 0,0 -157.1429,-5 -251.4286,0 -94.2857,5 -172.8571,-5 -235.7143,0 -62.8571,5 -172.8571,0 -172.8571,0 m 660,-420 c 0,0 5,100 0,160 -5,60 5,110 0,150 -5,40 0,110.00002 0,110.00002 M 910,562.36218 c 0,0 -5,100 0,160 5,60 -5,110 0,150 5,40 0,110 0,110 m 120,-370 0,-50 60,0 0,50 60,0 0,-50 60,0 0,50 60,0 0,-50 60,0 0,50 60,0 0,-50 60,0 0,50 60,0 0,-50 60,0 m -660,0 60,0 0,50 60,0"
+         style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path5901-6"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

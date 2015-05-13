@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="akd-cie-lab.svg">
+   sodipodi:docname="CIE-Lab-colorspace-coordinate-system.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -1378,7 +1378,7 @@
        sodipodi:nodetypes="cccccccc" />
     <g
        id="g5037"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab--gerade-300.png"
+       inkscape:export-filename="cie-lab--gerade-300.png"
        inkscape:export-xdpi="299.91071"
        inkscape:export-ydpi="299.91071"
        transform="translate(15,-89.999997)">
@@ -1637,7 +1637,7 @@
          y="75.73587">+b</tspan></text>
     <g
        id="g5020"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab--300.png"
+       inkscape:export-filename="cie-lab--300.png"
        inkscape:export-xdpi="300.12155"
        inkscape:export-ydpi="300.12155"
        transform="translate(15,-254)">
@@ -1743,7 +1743,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g6035"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab-perspetive--300.png"
+       inkscape:export-filename="cie-lab-perspetive--300.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <path
@@ -1840,7 +1840,7 @@
     </g>
     <g
        id="g5037-5"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab--gerade-300.png"
+       inkscape:export-filename="cie-lab--gerade-300.png"
        inkscape:export-xdpi="299.91071"
        inkscape:export-ydpi="299.91071"
        transform="translate(640,-84.999997)">
@@ -1910,7 +1910,7 @@
     </g>
     <g
        id="g5020-9"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab--300.png"
+       inkscape:export-filename="cie-lab--300.png"
        inkscape:export-xdpi="300.12155"
        inkscape:export-ydpi="300.12155"
        transform="translate(640,-248.99999)">
@@ -1983,7 +1983,7 @@
     <g
        transform="translate(625,5.0000026)"
        id="g6035-6"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab-perspetive--300.png"
+       inkscape:export-filename="cie-lab-perspetive--300.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300">
       <path

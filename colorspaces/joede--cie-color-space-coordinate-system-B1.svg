@@ -17,7 +17,7 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="Neues Dokument 19">
   <title
-     id="title4973">CIE labs colorspace coordinate system (B1)</title>
+     id="title4973">CIE Lab colorspace coordinate system (B1)</title>
   <defs
      id="defs4890">
     <linearGradient
@@ -158,7 +158,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
-        <dc:title>CIE labs colorspace coordinate system (B1)</dc:title>
+        <dc:title>CIE Lab colorspace coordinate system (B1)</dc:title>
         <dc:source>https://openclipart.org/user-detail/joede</dc:source>
         <dc:subject>
           <rdf:Bag>
@@ -166,7 +166,7 @@
             <rdf:li>colorspace</rdf:li>
           </rdf:Bag>
         </dc:subject>
-        <dc:description>The CIE labs color space shown as a 3 dimensional coordinate system. The labels are chosen less scientific! ;-)
+        <dc:description>The CIE Lab color space shown as a 3 dimensional coordinate system. The labels are chosen less scientific! ;-)
 </dc:description>
       </cc:Work>
       <cc:License
@@ -193,7 +193,7 @@
      transform="translate(-106.18862,-384.18962)">
     <g
        id="g5037"
-       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab--gerade-300.png"
+       inkscape:export-filename="cie-lab--gerade-300.png"
        inkscape:export-xdpi="299.91071"
        inkscape:export-ydpi="299.91071"
        transform="translate(-5.7645089,260.98759)">

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="440.44141"
+   height="247.75278"
+   id="svg5310"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Neues Dokument 27">
+  <title
+     id="title5395">CIE labs colorspace coordinate system (B3)</title>
+  <defs
+     id="defs5312">
+    <linearGradient
+       gradientTransform="translate(567.21706,165.00001)"
+       y2="558.73859"
+       x2="-209.5"
+       y1="558.73859"
+       x1="-294.06992"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5642"
+       xlink:href="#linearGradient5430"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient5430">
+      <stop
+         id="stop5432"
+         offset="0"
+         style="stop-color:#69ff69;stop-opacity:1;" />
+      <stop
+         id="stop5434"
+         offset="1"
+         style="stop-color:#7d7d7d;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3866-8-2-2"
+       id="linearGradient5414"
+       x1="-206.28683"
+       y1="559.86707"
+       x2="-121.71693"
+       y2="559.86707"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(568.9151,163.85472)" />
+    <linearGradient
+       id="linearGradient3866-8-2-2">
+      <stop
+         style="stop-color:#7d7d7d;stop-opacity:1;"
+         offset="0"
+         id="stop3868-6-29-4" />
+      <stop
+         style="stop-color:#ffff69;stop-opacity:1;"
+         offset="1"
+         id="stop3870-6-9-9" />
+    </linearGradient>
+    <linearGradient
+       y2="112.36218"
+       x2="260.5"
+       y1="112.36218"
+       x1="69.5"
+       gradientTransform="matrix(0,-1,0.71521325,0,279.63709,892.36216)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5478"
+       xlink:href="#linearGradient3866-5-9-2-7"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient3866-5-9-2-7">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3868-1-6-44-5" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3870-0-5-8-4" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(567.21706,165.00001)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3866-69"
+       id="linearGradient5406"
+       x1="-204.58881"
+       y1="609.86768"
+       x2="-33.900372"
+       y2="609.86768"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3866-69">
+      <stop
+         style="stop-color:#7d7d7d;stop-opacity:1;"
+         offset="0"
+         id="stop3868-83" />
+      <stop
+         style="stop-color:#ff6969;stop-opacity:1;"
+         offset="1"
+         id="stop3870-7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5416"
+       id="linearGradient5389"
+       gradientUnits="userSpaceOnUse"
+       x1="-349.83588"
+       y1="399.01648"
+       x2="-179.14746"
+       y2="399.01648"
+       gradientTransform="translate(536.86452,375.83432)" />
+    <linearGradient
+       id="linearGradient5416">
+      <stop
+         id="stop5418"
+         offset="0"
+         style="stop-color:#6969ff;stop-opacity:1;" />
+      <stop
+         id="stop5420"
+         offset="1"
+         style="stop-color:#7d7d7d;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-709.7793"
+     inkscape:cy="43.876389"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1144"
+     inkscape:window-height="589"
+     inkscape:window-x="699"
+     inkscape:window-y="194"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5315">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:title>CIE labs colorspace coordinate system (B3)</dc:title>
+        <dc:source>https://openclipart.org/user-detail/joede</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>cie</rdf:li>
+            <rdf:li>colorspace</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>The CIE labs color space shown as a 3 dimensional coordinate system. The labels are chosen less scientific! ;-)
+This variation uses perspectival arrows and labels.</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-188.35073,-328.4858)">
+    <g
+       transform="translate(41.680547,-264.71623)"
+       id="g6035"
+       inkscape:export-filename="/home/jd/LAN/alle/Anene/bachelor/cie-lab-perspetive--300.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3864-7-9"
+         d="m 357.21706,753.477 c 0,0 -65.78684,-27.80166 -65.78684,-27.80166 0,0 0,10.55838 0,10.55838 0,0 -17.78307,-27.9564 -17.78307,-27.9564 0,0 17.78307,-14.27712 17.78307,-14.27712 0,0 0,10.55838 0,10.55838 0,0 65.78684,22.80361 65.78684,22.80361 0,0 0,26.11481 0,26.11481"
+         style="fill:url(#linearGradient5642);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3864-2-5-5"
+         d="m 363.12826,753.46016 c 0,0 65.78684,-27.80165 65.78684,-27.80165 0,0 0,10.55838 0,10.55838 0,0 17.78307,-27.95641 17.78307,-27.95641 0,0 -17.78307,-14.27712 -17.78307,-14.27712 0,0 0,10.55838 0,10.55838 0,0 -65.78684,22.80361 -65.78684,22.80361 0,0 0,26.11481 0,26.11481"
+         style="fill:url(#linearGradient5414);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3864-9-6-81-3"
+         d="m 345.69574,822.36216 0,-139.99998 -14.30427,0 28.60853,-50 28.60853,50 -14.30426,0 0,139.99998 z"
+         style="fill:url(#linearGradient5478);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3864-0-47-5"
+         d="m 363.12826,755.97509 c 0,0 110.87349,46.85537 110.87349,46.85537 0,0 0,17.49367 0,17.49367 0,0 58.81494,-12.36622 58.81494,-12.36622 0,0 -58.81494,-57.60847 -58.81494,-57.60847 0,0 0,17.49367 0,17.49367 0,0 -110.87349,-38.43193 -110.87349,-38.43193 0,0 0,26.56391 0,26.56391"
+         style="fill:url(#linearGradient5406);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="path3864-6-9-6"
+         d="m 357.21706,755.95824 c 0,0 -110.87349,46.85537 -110.87349,46.85537 0,0 0,17.49367 0,17.49367 0,0 -58.81494,-12.36621 -58.81494,-12.36621 0,0 58.81494,-57.60847 58.81494,-57.60847 0,0 0,17.49367 0,17.49367 0,0 110.87349,-38.43193 110.87349,-38.43193 0,0 0,26.5639 0,26.5639"
+         style="fill:url(#linearGradient5389);fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4381-7-5"
+         y="622.36218"
+         x="347.00198"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="622.36218"
+           x="347.00198"
+           id="tspan4383-67-6"
+           sodipodi:role="line">L</tspan></text>
+      <text
+         transform="matrix(1,-0.35897437,0,1,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4703-5-7-5"
+         y="885.49139"
+         x="145.21706"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="885.49139"
+           x="145.21706"
+           id="tspan4705-1-3-8"
+           sodipodi:role="line">-b</tspan></text>
+      <text
+         transform="matrix(1,0.35897437,0,1,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4620-5-7"
+         y="629.30988"
+         x="532.21704"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="629.30988"
+           x="532.21704"
+           id="tspan4622-9-1"
+           sodipodi:role="line">+a</tspan></text>
+      <text
+         transform="matrix(1,0.35897437,0,1,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4703-56-7"
+         y="618.41248"
+         x="242.21706"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="stroke-width:1"
+           y="618.41248"
+           x="242.21706"
+           id="tspan4705-2-2"
+           sodipodi:role="line">-a</tspan></text>
+      <text
+         transform="matrix(1,-0.35897437,0,1,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4703-5-6-9-1"
+         y="877.90167"
+         x="447.21707"
+         style="font-size:30px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="stroke-width:1"
+           y="877.90167"
+           x="447.21707"
+           id="tspan4705-1-8-8-0"
+           sodipodi:role="line">+b</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+joede-power-symbol.svg
+Power Symbol
+https://openclipart.org/user-detail/joede
+A simple "Power" symbol for designing keypad buttons
+tags: keypad, electric
+
+joede-location-symbol.svg
+Location (GPS) Symbol
+https://openclipart.org/user-detail/joede
+A simple "Location" or "GPS" symbol for designing keypad buttons
+tags: keypad, location, gps
+
+joede-store-symbol.svg
+Modern Store Symbol
+https://openclipart.org/user-detail/joede
+A simple but more modern "Store" symbol for designing keypad buttons. Remember, who knows disc drives today...
+tags: keypad, store, save
+
+joede-load-symbol.svg
+Modern Load Symbol
+https://openclipart.org/user-detail/joede
+A simple but more modern "Load" symbol for designing keypad buttons. Remember, who knows disc drives today...
+tags: keypad, load
+
+joede-disposal-WEEE-symbol.svg
+Disposal WEE Symbol
+https://openclipart.org/user-detail/joede
+The disposal symbol indicates, that this device is not allowed to be disposed in domestic waste. The symbol can be placed on labels printed on devices. WEEE="Waste Electrical and Electronic Equipment Directive". THIS IS NOT THE OFFICIAL SYMBOL!
+disposal, trash, WEEE
+
+joede-manufacture-symbol.svg
+Manufacture Symbol
+https://openclipart.org/user-detail/joede
+Manufacture symbol for printed labels
+symbol, factory, manufacturing
+
+joede-read-manual.svg
+Read Manual Symbol
+https://openclipart.org/user-detail/joede
+"Read Manual" symbol for printed labels
+symbol, icon, manual

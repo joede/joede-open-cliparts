@@ -22,6 +22,18 @@ https://openclipart.org/user-detail/joede
 A simple but more modern "Load" symbol for designing keypad buttons. Remember, who knows disc drives today...
 tags: keypad, load
 
+joede-store2-symbol.svg
+Modern Store Symbol #2
+https://openclipart.org/user-detail/joede
+A simple but more modern "Store" symbol (variant #2) for designing keypad buttons. Remember, who knows disc drives today...
+tags: keypad, store, save
+
+joede-load2-symbol.svg
+Modern Load Symbol #2
+https://openclipart.org/user-detail/joede
+A simple but more modern "Load" symbol (variant #2) for designing keypad buttons. Remember, who knows disc drives today...
+tags: keypad, load
+
 joede-disposal-WEEE-symbol.svg
 Disposal WEE Symbol
 https://openclipart.org/user-detail/joede
